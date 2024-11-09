@@ -1,3 +1,5 @@
-# learning-git
-# This is the commit on the main branch
-# This is the commit from the learning01 branch
+# Learning Git
+
+- This is commit from the main branch.
+- This the commit from the learning01 branch.
+- This commit is to check for pull/merge in local branch.
